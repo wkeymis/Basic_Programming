@@ -1,0 +1,6 @@
+2025-08-24 08:00 temperature:25.4 humidity:45.2 vibration:0.02
+2025-08-24 09:00 temperature:26.0 humidity:44.8 vibration:0.05
+2025-08-24 10:00 temperature:27.5 humidity:63.0 vibration:0.20
+2025-08-24 11:00 temperature:26.8 humidity:50.0 vibration:0.10
+
+

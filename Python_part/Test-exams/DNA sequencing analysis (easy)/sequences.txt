@@ -1,0 +1,14 @@
+Sample: Sample_001
+GeneA: ATCGATCGATCG
+GeneB: GGCATCGTAA
+GeneC: TTATCGGCTA
+
+Sample: Sample_002
+GeneA: ATCGATCG
+GeneB: GGCA
+GeneC: TTATCGGCTATT
+
+Sample: Sample_003
+GeneA: ATCG
+GeneB: GGCAATCGTAA
+GeneC: TTATCG

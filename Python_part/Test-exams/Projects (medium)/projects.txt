@@ -1,0 +1,23 @@
+[Project Alpha]
+Leader: Alice
+Budget: 150000
+Team:
+- Bob
+- Charlie
+- Dana
+
+[Project Beta]
+Leader: Frank
+Budget: 95000
+Team:
+- George
+- Hannah
+
+[Project Gamma]
+Leader: Irene
+Budget: 200000
+Team:
+- Jack
+- Karen
+- Liam
+- Maria
